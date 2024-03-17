@@ -9,8 +9,8 @@ class Menu_bar(BoxLayout):
 class MainFrame(BoxLayout):
     pass
 
-class test_gui(App):
+class gui(App):
     pass
 
 if __name__ == "__main__":
-    test_gui().run()
+    gui().run()
